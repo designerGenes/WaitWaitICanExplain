@@ -1,0 +1,20 @@
+{
+  "name": "waitwaiticanexplain",
+  "version": "1.0.0",
+  "description": "But I can explain!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/designergenes/waitwaiticanexplain.git"
+  },
+  "author": "Jaden",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
